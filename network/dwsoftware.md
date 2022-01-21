@@ -1,13 +1,13 @@
 # Download Software share
 
-- ## Access software share
+## Access software share
 
 1. Click **win+R**
 2. Type **\\10.65.68.40\software**
 
 ![software share](img/software-share.png)
 
-- ## [Error] You can't access this shared folder because your organization's security policies block unauthenticated guest access
+## [Error] You can't access this shared folder because your organization's security policies block unauthenticated guest access
 
 ![error](img/cannot-access-this-shared-folder-error.png)
 

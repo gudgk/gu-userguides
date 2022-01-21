@@ -16,6 +16,6 @@
 3. For the setting, right-click **Enable insecure guest logons** and select **Edit**.
 4. Select **Enabled** and select **OK**.
 
-## Further reading
+### Further reading
 
 - [Can't access shared folders from File Explorer in Windows 10](https://docs.microsoft.com/en-us/troubleshoot/windows-client/networking/cannot-access-shared-folder-file-explorer)

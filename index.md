@@ -1,5 +1,7 @@
 # Ghazi University User Guides
 
+## [GU IT Support Team Contact Details](gudit.md)
+
 ## Email Account
 
 ## [Office 365 Account](office365/index.md)
@@ -14,4 +16,4 @@
 
 ## Turnitin
 
-## [GU IT Support Team Contact Details](gudit.md)
+## Teaching tools

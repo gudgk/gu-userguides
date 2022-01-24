@@ -14,6 +14,6 @@
 
 ## [GU Network](network/index.md)
 
-## Turnitin
+## [Turnitin](turnitin/index.md)
 
 ## [Teaching tools](tools.md)

@@ -2,6 +2,11 @@
 
 ## For Teachers
 
+### Rearch
+
+-[Mendeley Reference Manager](https://www.mendeley.com/reference-management/reference-manager)
+ Mendeley Reference Manager simplifies your workflow, so you can focus on achieving your goals.
+
 ### Screencast
 
 - [Free Tool for Creating Screencasts](https://www.freescreenrecording.com/)

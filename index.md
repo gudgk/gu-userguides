@@ -1,6 +1,6 @@
 # Ghazi University User Guides
 
-## [GU IT Support Team Contact Details](gudit.md)
+## [GU IT Support Team Contact Details](gudit/team.md)
 
 ## Email Account
 
@@ -17,3 +17,5 @@
 ## [Turnitin](turnitin/index.md)
 
 ## [Teaching tools](tools.md)
+
+## [GU IT Team](gudit/index.md)

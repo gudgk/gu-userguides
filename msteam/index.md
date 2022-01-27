@@ -40,20 +40,24 @@
 
 - #### [Using video in Microsoft Teams](https://support.microsoft.com/en-us/office/using-video-in-microsoft-teams-3647fc29-7b92-4c26-8c2d-8a596904cdae?ui=en-us&rs=en-us&ad=us)
 
-- #### [Share content in a meeting in Teams](https://support.microsoft.com/en-us/office/share-content-in-a-meeting-in-teams-fcc2bf59-aecd-4481-8f99-ce55dd836ce8?ui=en-us&rs=en-us&ad=us)
-  
-  - [Video - Show your screen during a meeting](https://support.office.com/en-us/article/show-your-screen-during-a-meeting-90c84e5a-b6fe-4ed4-9687-5923d230d3a7)
-  - [Video - Show PowerPoint slides in a meeting](https://support.office.com/en-us/article/tip-show-powerpoint-slides-in-a-meeting-ddfc73dd-b957-4f2b-8e42-ce078f51873c)
-
-- #### [Download attendance reports in Teams](https://support.office.com/en-us/article/download-attendance-reports-in-teams-ae7cf170-530c-47d3-84c1-3aedac74d310)
-
-- #### [End a Teams meeting for everyone in attendance](https://support.office.com/en-us/article/end-a-teams-meeting-for-everyone-in-attendance-5051fa72-8470-4a38-99e4-014535208971)
-
 - #### [Video - Move around during a Teams meeting](https://support.office.com/en-us/article/move-around-during-a-teams-meeting-bc428cc5-9ea2-4be5-87b1-ba434481b964)
 
 - #### [Raise your hand in a Teams meeting](https://support.office.com/en-us/article/raise-your-hand-in-a-teams-meeting-bb2dd8e1-e6bd-43a6-85cf-30822667b372)
 
 - #### [Change your background for a Teams meeting](https://support.microsoft.com/en-us/office/change-your-background-for-a-teams-meeting-f77a2381-443a-499d-825e-509a140f4780)
+
+#### Share content
+
+- [Share content in a meeting in Teams](https://support.microsoft.com/en-us/office/share-content-in-a-meeting-in-teams-fcc2bf59-aecd-4481-8f99-ce55dd836ce8?ui=en-us&rs=en-us&ad=us)
+  
+  - [Video - Show your screen during a meeting](https://support.office.com/en-us/article/show-your-screen-during-a-meeting-90c84e5a-b6fe-4ed4-9687-5923d230d3a7)
+  - [Video - Show PowerPoint slides in a meeting](https://support.office.com/en-us/article/tip-show-powerpoint-slides-in-a-meeting-ddfc73dd-b957-4f2b-8e42-ce078f51873c)
+
+#### Attendance
+  
+- [Download attendance reports in Teams](https://support.office.com/en-us/article/download-attendance-reports-in-teams-ae7cf170-530c-47d3-84c1-3aedac74d310)
+
+- [End a Teams meeting for everyone in attendance](https://support.office.com/en-us/article/end-a-teams-meeting-for-everyone-in-attendance-5051fa72-8470-4a38-99e4-014535208971)
 
 ### Assignments
 

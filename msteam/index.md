@@ -89,7 +89,6 @@
 
 - #### [Microsoft Teams online meetings with student groups or anyone via their email](https://youtu.be/oEtOcXdOUNk)
 
-
 ## Student
 
 ### Getting started

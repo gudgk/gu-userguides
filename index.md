@@ -10,7 +10,7 @@
 
 ## Learning Management System
 
-## MS Team
+## [MS Team](msteam/index.md)
 
 ## [GU Network](network/index.md)
 

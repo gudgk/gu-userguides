@@ -1,5 +1,11 @@
 # Teaching Tools
 
+## General tools
+
+### File conversion tools
+
+- [Zamzar: Online file conversion](https://www.zamzar.com/)
+  Convert documents, images, videos & sound - 1100+ formats supported
 ## For Teachers
 
 ### Screencast

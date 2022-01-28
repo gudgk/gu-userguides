@@ -6,11 +6,11 @@
 
 ## [Office 365 Account](office365/index.md)
 
-## Eduroam Account
+## [Eduroam Account](eduroam/index.md)
 
 ## Learning Management System
 
-## MS Team
+## [MS Team](msteam/index.md)
 
 ## [GU Network](network/index.md)
 

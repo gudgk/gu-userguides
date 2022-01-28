@@ -36,3 +36,14 @@ Muhammad Yasir Bhutta
 
 Email: myasir@gudgk.edu.pk
 
+## How to get IT Suppport
+
+For any query/support, please contact us
+
+Email: itsupport@gudgk.edu.pk
+
+OR
+
+Visit **“IT Support Desk”** in university
+
+**Timing 10:00 am - 12:00 pm**

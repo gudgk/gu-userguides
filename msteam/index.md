@@ -102,3 +102,5 @@
 ## Further reading
 
 [Microsoft Teams video training](https://support.microsoft.com/en-us/office/microsoft-teams-video-training-4f108e54-240b-4351-8084-b1089f0d21d7?wt.mc_id=otc_home&ui=en-us&rs=en-us&ad=us)
+
+[Presenter Microsoft Teams User Guide](presenter.md)

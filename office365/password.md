@@ -7,12 +7,11 @@
 
 **Step 1:** Open [https://pcp.pern.edu.pk/](https://pcp.pern.edu.pk/)
 
-**Step 2:** Enter data in form 
+**Step 2:** Enter data in form
 
 - Username (your official email)
 - Current Password
-- New Password 
+- New Password
 - Confirm New Password
 
 ![image](img/change-pwd.png)
- 

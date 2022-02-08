@@ -1,5 +1,9 @@
 # Eduroam / Smart University User Guide
 
-- ## [HOW to apply for Ghazi Samrt Univerisity/Eduroam Account](apply-eduroam.md)
+- [HOW to apply for Ghazi Samrt Univerisity/Eduroam Account](apply-eduroam.md)
+  
+## Connecting to The Smart University Wireless Network
 
-- ## [Video Tutorial: How to connect to EDUROAM (Smart University Account)](https://www.youtube.com/watch?v=m8FbCVjjhiM)
+- [Windows 10](config-win10.md)
+- [Android](config-android.md)
+- [Video Tutorial: How to connect to EDUROAM (Smart University Account)](https://www.youtube.com/watch?v=m8FbCVjjhiM)

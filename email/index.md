@@ -6,6 +6,9 @@
 
 - [How to recover your Google Account or Gmail](https://support.google.com/accounts/answer/7682439?hl=en&ref_topic=3382255)
 
+## Signing in with 2-Step Verification
+
+- [Sign in with your backup phone](https://support.google.com/accounts/answer/1188780?hl=en&ref_topic=7189145)
 - [Sign in with backup codes](https://support.google.com/accounts/answer/1187538?hl=en&co=GENIE.Platform%3DDesktop)
 
 ## Further reading

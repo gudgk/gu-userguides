@@ -2,7 +2,7 @@
 
 ## [GU IT Support Team Contact Details](gudit/team.md)
 
-## Email Account
+## [Email Account](email/index.md)
 
 ## [Office 365 Account](office365/index.md)
 

@@ -1,4 +1,4 @@
-# HOW to apply for Ghazi Samrt Univerisity/Eduroam Account
+# How to apply for Ghazi Samrt Univerisity/Eduroam Account
 
 **Step 1:** Click the link below
 
@@ -14,6 +14,6 @@
 
 ![image](img/apply-eduroam3.png)
 
-**Step 4:** After submission of form you will receive **“EDUROAM”** login details on your university email (example@student.gudgk.edu.pk).
+**Step 4:** After submission of form you will receive **“EDUROAM”** login details on your university email (<example@student.gudgk.edu.pk>).
 
 **Note:** Please use university email address to access the above mentioned online form

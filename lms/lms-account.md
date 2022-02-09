@@ -16,4 +16,4 @@
 
 **Step 6:**  Contact your subject teacher for enrollment in courses.  ( for students)
 
-- Contact your departmental focal person for enrollment in courses as teachers (for faculty members)
+> Contact your departmental focal person for enrollment in courses as teachers (for faculty members)

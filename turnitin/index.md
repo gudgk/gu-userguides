@@ -2,7 +2,7 @@
 
 ## Instructor
 
-### Account basics
+### Account basics - Instructor
 
 - #### [Logging in via Google SSO](https://help.turnitin.com/feedback-studio/turnitin-website/instructor/account-basics/logging-in-via-google-sso-instructor.htm)
 
@@ -16,11 +16,11 @@
 
 ## Student
 
-### Account basics
+### Account basics - Student
 
 #### [Logging in via Google SSO](https://help.turnitin.com/feedback-studio/turnitin-website/student/account-basics/logging-in-via-google-sso-student.htm)
 
-### Further reading
+### Further reading 
 
 - #### [Feedback Studio Student](https://help.turnitin.com/feedback-studio/turnitin-website/student/student-category.htm)
   

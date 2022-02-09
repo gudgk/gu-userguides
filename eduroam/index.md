@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-- [HOW to apply for Ghazi Samrt Univerisity/Eduroam Account](apply-eduroam.md)
+- [How to apply for Ghazi Samrt Univerisity/Eduroam Account](apply-eduroam.md)
   
 ### Connecting to The Smart University Wireless Network
 

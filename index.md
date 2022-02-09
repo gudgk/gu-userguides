@@ -8,7 +8,7 @@
 
 ## [Eduroam Account](eduroam/index.md)
 
-## Learning Management System
+## [Learning Management System](lms/index.md)
 
 ## [MS Team](msteam/index.md)
 

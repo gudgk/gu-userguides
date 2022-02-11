@@ -20,6 +20,7 @@
 ### Screencast
 
 - [Free Tool for Creating Screencasts](https://www.freescreenrecording.com/)
+- [Lightshot](https://app.prntscr.com/en/download.html)
 
 ### Download free images
 

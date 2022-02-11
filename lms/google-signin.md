@@ -1,6 +1,6 @@
 # How to Integrate Google Sign-In into University LMS 
 
-**Note:** visit <http://gmail.com/> to activate your university email id provided by the IT department.
+> **Note:** visit <http://gmail.com/> to activate your university email id provided by the IT department.
 
 **Step 1:** Go to  <http://gulms.live/>
 

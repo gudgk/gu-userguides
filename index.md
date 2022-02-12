@@ -1,5 +1,7 @@
 # Ghazi University User Guides
 
+## [Help Center](https://gudgk.atlassian.net/servicedesk/customer/portals/3)
+  
 ## [GU IT Support Team Contact Details](gudit/team.md)
 
 ## [Email Account](email/index.md)

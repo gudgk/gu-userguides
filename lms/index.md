@@ -99,7 +99,7 @@ A URL (Uniform or Universal Resource Locator) is a link on the internet to a web
 
 #### File resource
 
-Moodle provides an easy way for a teacher to present materials to their students such as word-processed documents or slideshow presentations. 
+Moodle provides an easy way for a teacher to present materials to their students such as word-processed documents or slideshow presentations.
 
 ##### Further reading - File resource
 

@@ -86,3 +86,45 @@
 ### Online Tutorial for Teachers
 
 - [Moodle 3.8 Complete Tutorial for Teachers and Creating Online Courses](https://youtu.be/hl74T-31tKI)
+
+- ### [Enrol students](enroll-students.md)
+
+### Add an Activity or Resource
+
+#### URL resource
+
+A URL (Uniform or Universal Resource Locator) is a link on the internet to a website or online file. Teachers can use the URL resource to provide their students with web links for research, saving the student time and effort in manually typing out the address.
+
+- [Adding a URL resource to your course](url-resource.md)
+
+#### File resource
+
+Moodle provides an easy way for a teacher to present materials to their students such as word-processed documents or slideshow presentations.
+
+##### Further reading - File resource
+
+- <https://docs.moodle.org/38/en/File_resource>
+
+#### Assignment
+
+Assignments allow students to submit work to their teacher for grading. The work may be text typed online or uploaded files of any type the teacher’s device can read. Grading may be by simple percentages or custom scales, or more complex rubrics may be used. Students may submit as individuals or in groups.
+
+Read details: <https://docs.moodle.org/38/en/Assignment_activity>
+
+- [Creating an assignment](create-assignment.md)
+
+#### Attendance
+
+- [Adding an Attendance activity](add-attendance.md)
+
+- [Adding sessions to an attendance activity](add-attendance-session.md)
+
+- [Taking attendance](taking-attendance.md)
+
+##### How do I add a video to my course?
+
+- [Embed a video from YouTube into your course](embed-video.md)
+
+## Manager
+
+- [How to create a new course](add-course.md)

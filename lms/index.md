@@ -116,3 +116,15 @@ Read details: <https://docs.moodle.org/38/en/Assignment_activity>
 #### Attendance
 
 - [Adding an Attendance activity](add-attendance.md)
+
+- [Adding sessions to an attendance activity](add-attendance-session.md)
+
+- [Taking attendance](taking-attendance.md)
+
+##### How do I add a video to my course?
+
+- [Embed a video from YouTube into your course](embed-video.md)
+
+## Manager
+
+- [How to create a new course](add-course.md)

@@ -14,6 +14,10 @@
 - [Sign in with your backup phone](https://support.google.com/accounts/answer/1188780?hl=en&ref_topic=7189145)
 - [Sign in with backup codes](backupcode.md)
 
+## Contacts
+
+- [View, group & share contacts](https://support.google.com/contacts/answer/30970?hl=en&co=GENIE.Platform%3DDesktop#)
+  
 ## Further reading
 
 - [Create a strong password & a more secure account](https://support.google.com/accounts/answer/32040)

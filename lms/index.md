@@ -102,3 +102,6 @@ Read details: <https://docs.moodle.org/38/en/Assignment_activity>
 ## Manager
 
 - [How to create a new course](add-course.md)
+- [Course categories](https://docs.moodle.org/311/en/Course_categories)
+- [Assigning the role of Manager at the Category level](https://docs.moodle.org/311/en/Manager_role#Assigning_the_role_of_Manager_at_the_Category_level)
+- 

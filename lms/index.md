@@ -104,4 +104,18 @@ Read details: <https://docs.moodle.org/38/en/Assignment_activity>
 - [How to create a new course](add-course.md)
 - [Course categories](https://docs.moodle.org/311/en/Course_categories)
 - [Assigning the role of Manager at the Category level](https://docs.moodle.org/311/en/Manager_role#Assigning_the_role_of_Manager_at_the_Category_level)
-- 
+
+## LMS - Frequently Asked Questions
+
+-  [How to enroll in course](faq.md#1-how-to-enroll-in-course)
+-  [Authentication error during LMS website login](faq.md#2-authentication-error-during-lms-website-login)
+
+## Further reading
+
+1. [How to be a better online teacher?](https://www.chronicle.com/interactives/advice-onlineteaching)
+2. [Columbia - Resources for Online Teaching & Learning](https://www.tc.columbia.edu/office-ofdigital-learning/what-we-do/inner-pages/resources-for-online-teaching--learning/)
+3. [Harvard – Teaching Online Resources](https://hbsp.harvard.edu/teaching-online-resources/)
+4. [Virtual University – Teaching Online Resources](https://ocw.vu.edu.pk/)
+5. [Harvard – Best Practices: Online Pedagogy](https://teachremotely.harvard.edu/best-practices)
+6. [Stanford – Best Practices](https://teachanywhere.stanford.edu/best-practices)
+

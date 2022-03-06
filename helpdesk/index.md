@@ -4,13 +4,8 @@
 
 - [Help Center](https://gudgk.atlassian.net/servicedesk/customer/portal/3)
 
-## Agents
+## [Agent User Guide](agent.md)
+## [Admin](admin.md)
 
-- [Creating issues and sub-tasks](https://confluence.atlassian.com/jiracoreserver/creating-issues-and-sub-tasks-939937904.html)
-  
-- [What are issues and requests?](https://support.atlassian.com/jira-service-management-cloud/docs/what-are-issues-and-requests/)
 
-## Admin
-
-- [Change the look and feel of customer notifications](https://support.atlassian.com/jira-service-management-cloud/docs/change-the-look-and-feel-of-customer-notifications/)
   

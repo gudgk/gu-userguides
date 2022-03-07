@@ -4,23 +4,26 @@
 
 ### Account basics - Instructor
 
-- #### [Logging in via Google SSO](https://help.turnitin.com/feedback-studio/turnitin-website/instructor/account-basics/logging-in-via-google-sso-instructor.htm)
+- [Logging in via Google SSO](https://help.turnitin.com/feedback-studio/turnitin-website/instructor/account-basics/logging-in-via-google-sso-instructor.htm)
 
-- #### [Advanced Similarity Report settings - Repository options](https://bit.ly/33P3uAe)
+### Semilarity Report
 
-- #### [Viewing submission information](https://help.turnitin.com/feedback-studio/turnitin-website/instructor/assignment-management/viewing-submission-information.htm)
+- [Advanced Similarity Report settings - Repository options](https://bit.ly/33P3uAe)
+- [Generating a new Similarity Report](https://help.turnitin.com/feedback-studio/turnitin-website/instructor/the-similarity-report/generating-a-new-similarity-report.htm)
 
+### Aubmission information
+- [Viewing submission information](https://help.turnitin.com/feedback-studio/turnitin-website/instructor/assignment-management/viewing-submission-information.htm)
 ### Further reading
 
-- #### [Feedback Studio Instructor](https://help.turnitin.com/feedback-studio/turnitin-website/instructor/instructor-category.htm)
+- [Feedback Studio Instructor](https://help.turnitin.com/feedback-studio/turnitin-website/instructor/instructor-category.htm)
 
 ## Student
 
 ### Account basics - Student
 
-#### [Logging in via Google SSO](https://help.turnitin.com/feedback-studio/turnitin-website/student/account-basics/logging-in-via-google-sso-student.htm)
+- [Logging in via Google SSO](https://help.turnitin.com/feedback-studio/turnitin-website/student/account-basics/logging-in-via-google-sso-student.htm)
 
 ### Further reading 
 
-- #### [Feedback Studio Student](https://help.turnitin.com/feedback-studio/turnitin-website/student/student-category.htm)
+- [Feedback Studio Student](https://help.turnitin.com/feedback-studio/turnitin-website/student/student-category.htm)
   

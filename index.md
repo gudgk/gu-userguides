@@ -1,6 +1,8 @@
 # Ghazi University User Guides
 
-## [Help Center](https://gudgk.atlassian.net/servicedesk/customer/portals/3)
+## [Help Desk](https://helpdesk.gudgk.edu.pk/) 
+
+## [Help Desk: User Guide](helpdesk/index.md)
   
 ## [GU IT Support Team Contact Details](gudit/team.md)
 

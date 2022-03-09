@@ -22,4 +22,6 @@
 
 ## [Teaching tools](tools.md)
 
+## [Softwares for faculty members](software/index.md)
+
 ## [GU IT Team](gudit/index.md)

@@ -2,7 +2,8 @@
 
 ## Getting Started
 
-- [Help Center](https://gudgk.atlassian.net/servicedesk/customer/portal/3)
+- [How to get IT Suppport](get-support.md)
+- [Help Desk](https://helpdesk.gudgk.edu.pk/)
 - [Request status](request-status.md)
 
 ## [Agent User Guide](agent.md)

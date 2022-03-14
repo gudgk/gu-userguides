@@ -1,4 +1,4 @@
-# Help Center User Guide
+# Help Desk User Guide
 
 ## Getting Started
 

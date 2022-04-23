@@ -1,4 +1,4 @@
-# How to Login to Azure Dev Tools for Teaching Portal 
+# How to Login to Azure Dev Tools for Teaching Portal
 
 [Download](azure-dev-tools.pdf)
 

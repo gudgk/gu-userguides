@@ -28,6 +28,7 @@
 
 ## Softwares / Tools
 
+- [Azue Dev Tools for Teaching](azure-dev-tools/index.md)
 - [Softwares for faculty members](software/index.md)
 - [Teaching tools](tools.md)
 

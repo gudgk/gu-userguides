@@ -73,6 +73,8 @@
 
   - [VIDEO: You Can Speed Grade Your Assignments](https://youtu.be/nXFoPNCjFKU)
 
+- [Getting started with Reading Progress in Teams](https://support.microsoft.com/en-au/topic/getting-started-with-reading-progress-in-teams-7617c11c-d685-4cb7-8b75-3917b297c407)
+
 ### Quiz
 
 - #### [Assign quizzes to students through Microsoft Teams](https://support.microsoft.com/en-us/office/assign-quizzes-to-students-through-microsoft-teams-61524815-f5fd-4dc1-961d-dc8e680e7ab0#ID0EHBAAA=Assign_a_quiz_)

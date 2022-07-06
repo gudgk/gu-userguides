@@ -7,9 +7,9 @@
 
 ![image2](img/request-submit2.png)
 
-**Step 3** Enter **Summary** of your request
+**Step 3** Enter the **Summary** of your request
 
-**Step 4:** Select **Status** and fill personal details
+**Step 4:** Select **Status** and fill in personal details
 
 ![image3](img/request-submit3.png)
 

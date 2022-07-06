@@ -11,6 +11,10 @@
 - [Turnitin](turnitin/index.md)
 - [Digital Library](digital-library/index.md)
 
+## Campus Management System
+
+- [CMS](cms/index.md)
+  
 ## Online learning
 
 - [Learning Management System](lms/index.md)

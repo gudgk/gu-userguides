@@ -8,7 +8,6 @@
 
 - [Logging in via Google SSO](https://help.turnitin.com/feedback-studio/turnitin-website/instructor/account-basics/logging-in-via-google-sso-instructor.htm)
 - [Changing user types](https://help.turnitin.com/feedback-studio/turnitin-website/instructor/account-basics/changing-user-types.htm)
-
 - [Paper Deletions](https://help.turnitin.com/feedback-studio/turnitin-website/instructor/paper-deletions.htm)
 
 ### Classes and master classes

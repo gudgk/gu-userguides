@@ -9,7 +9,11 @@
 - [Logging in via Google SSO](https://help.turnitin.com/feedback-studio/turnitin-website/instructor/account-basics/logging-in-via-google-sso-instructor.htm)
 - [Changing user types](https://help.turnitin.com/feedback-studio/turnitin-website/instructor/account-basics/changing-user-types.htm)
 
+- [Paper Deletions](https://help.turnitin.com/feedback-studio/turnitin-website/instructor/paper-deletions.htm)
+
 ### Classes and master classes
+
+- [Creating a class](https://help.turnitin.com/feedback-studio/turnitin-website/instructor/classes-and-master-classes/creating-a-class.htm)
 
 ### Student management
 
@@ -26,7 +30,9 @@
 - [Single-file upload on behalf of a student](https://help.turnitin.com/feedback-studio/turnitin-website/instructor/making-a-submission/single-file-upload-on-behalf-of-a-student.htm)
 - [Activating quick submit](https://help.turnitin.com/feedback-studio/turnitin-website/instructor/making-a-submission/activating-quick-submit.htm)
 - [Submitting via quick submit](https://help.turnitin.com/feedback-studio/turnitin-website/instructor/making-a-submission/submitting-via-quick-submit.htm)
-
+- [Locating your digital receipts](https://help.turnitin.com/feedback-studio/turnitin-website/instructor/making-a-submission/locating-digital-receipts.htm)
+- [File requirements](https://help.turnitin.com/feedback-studio/turnitin-website/instructor/making-a-submission/file-requirements.htm)
+  
 ### Semilarity Report
 
 - [Advanced Similarity Report settings - Repository options](https://bit.ly/33P3uAe)
@@ -35,10 +41,6 @@
 #### Similarity exlusions
 
 #### Report naviations
-
-### Paper Deletions
-
-- [Turnitin - Paper Deletion](https://help.turnitin.com/feedback-studio/turnitin-website/instructor/paper-deletions.htm)
   
 ### Submission information
 

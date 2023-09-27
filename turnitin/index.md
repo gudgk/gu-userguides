@@ -2,9 +2,12 @@
 
 ## Instructor
 
+- [Instructor quick start guide](https://help.turnitin.com/feedback-studio/turnitin-website/instructor/quickstart.htm)
+
 ### Account basics - Instructor
 
 - [Logging in via Google SSO](https://help.turnitin.com/feedback-studio/turnitin-website/instructor/account-basics/logging-in-via-google-sso-instructor.htm)
+- [Changing user types](https://help.turnitin.com/feedback-studio/turnitin-website/instructor/account-basics/changing-user-types.htm)
 
 ### Classes and master classes
 

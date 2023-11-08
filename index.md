@@ -24,7 +24,7 @@
 
 - [Eduroam Account](eduroam/index.md)
 - [Email Account](email/index.md)
-- [Office 365 Account](office365/index.md)
+- [Microsoft 365 Account](microsoft365/index.md)
 
 ## GU Network
 

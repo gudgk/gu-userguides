@@ -21,7 +21,7 @@ Image source: [support.microsoft.com](https://support.microsoft.com/en-gb/office
 
 - Select `Open file` after the Microsoft installer downloads.
 - Select `Yes` to install on your device
-- Open any Microsoft 365 app and `sign in` with university Microsoft 365 account.
+- Open any Microsoft 365 app and `sign in` with a university Microsoft 365 account.
 
 ## See also
 

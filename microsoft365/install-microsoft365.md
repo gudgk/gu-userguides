@@ -1,5 +1,8 @@
 # Microsoft 365
 
+- [Download PDF]()
+- [Ghazi University User Guides](https://docs.gudgk.edu.pk/)
+
 ## Download and install or reinstall Microsoft 365 or Office 2021
 
 **Step 1:** Go to [https://microsoft365.com/](https://microsoft365.com/) and if you're not already signed in, select `Sign in` (from your university Microsoft 365 account).
